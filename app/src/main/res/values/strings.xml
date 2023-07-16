@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Campus Map</string>
+    <string name="API_KEY">AIzaSyDUOu5DT6aWYKtwhv2hxQaFu4FU89jQ1W8</string>
+    <string name="text1">Campus Map</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="alt_login">OR</string>
+    <string name="username">Username</string>
+    <string name="login_email">Email</string>
+    <string name="member">Already have an account?<b>Login HERE</b></string>
+    <string name="done">Done</string>
+</resources>
